@@ -18,8 +18,8 @@
 <br>
 
   - [Portfolio](https://naimabd.me),
-  - Full stack web developer (front-end & back-end),
-  - I started in this field a long time ago and have gained extensive experience.
+  - My expertise spans both front-end and back-end technologies, allowing me to craft websites that are not only visually appealing but also user-friendly,
+  - Let's work together to transform your web-related dreams into a meaningful reality that connects with people.
   
 
 <br><br>
